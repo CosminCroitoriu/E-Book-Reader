@@ -115,6 +115,7 @@ Design Considerations
 * Using a single LDO regulator to generate 3.3V for the entire board simplifies the power design
 * Battery charging is done through the USB-C port, ensuring wide compatibility
 * The environmental sensors allow for monitoring the conditions in which the device is used and can be used to alert the user about unfavorable conditions
+* Used a predefined 3D model for the screen. Source: https://grabcad.com/library/7-5in-e-ink-display-assortment-1
 
 
 PCB Observations
